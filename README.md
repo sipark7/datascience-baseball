@@ -1,7 +1,7 @@
 # datascience-baseball
-Data Analysis of Baseball Team Salaries and Wins
-by Steven Park
-Udacity Intro to Programming - Data Science
+*Data Analysis of Baseball Team Salaries and Wins*<br>
+by Steven Park<br>
+Udacity Intro to Programming - Data Science<br>
 
 For my project, I wanted to examine if team salaries can factor into
 teams' success, i.e. winning games. Team salaries are quantifiable, which
